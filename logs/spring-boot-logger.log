@@ -1,0 +1,48 @@
+2018-11-16 14:12:34,693 INFO org.springframework.boot.StartupInfoLogger [main] Starting SignupprojectApplication on tc16421518 with PID 7280 (C:\Users\tcokayildirim\IdeaProjects\signupproject\target\classes started by TCOKAYILDIRIM in C:\Users\tcokayildirim\IdeaProjects\signupproject)
+2018-11-16 14:12:34,699 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-16 14:12:34,702 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2018-11-16 14:12:40,198 INFO org.springframework.boot.StartupInfoLogger [main] Started SignupprojectApplication in 6.53 seconds (JVM running for 8.411)
+2018-11-16 14:12:51,036 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Entering login page
+2018-11-16 14:12:51,038 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Login GET request is handled successfully
+2018-11-16 14:12:51,039 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Exiting login request
+2018-11-16 14:12:54,294 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-2] Entering signup page
+2018-11-16 14:12:54,295 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-2] Signup GET request is handled successfully
+2018-11-16 14:12:54,295 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-2] Exiting signup page
+2018-11-16 14:13:10,148 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] Entering post request to signup page
+2018-11-16 14:13:10,324 WARN com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] In signup page, user is already exist
+2018-11-16 14:13:10,325 WARN com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] There is ERROR on signup page
+2018-11-16 14:13:10,326 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] Exiting post request to signup page
+2018-11-16 14:13:13,733 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-4] Entering signup page
+2018-11-16 14:13:13,734 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-4] Signup GET request is handled successfully
+2018-11-16 14:13:13,735 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-4] Exiting signup page
+2018-11-16 14:13:14,380 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-5] Entering login page
+2018-11-16 14:13:14,381 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-5] Login GET request is handled successfully
+2018-11-16 14:13:14,381 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-5] Exiting login request
+2018-11-16 14:13:24,011 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-7] Entering login page
+2018-11-16 14:13:24,012 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-7] Login GET request is handled successfully
+2018-11-16 14:13:24,012 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-7] Exiting login request
+2018-11-16 14:13:36,781 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-9] Entering login page
+2018-11-16 14:13:36,782 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-9] Login GET request is handled successfully
+2018-11-16 14:13:36,783 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-9] Exiting login request
+2018-11-16 14:13:59,578 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Entering home/home request to home page
+2018-11-16 14:13:59,581 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Home GET request is handled successfully
+2018-11-16 14:13:59,582 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Exiting home/home request to home page
+2018-11-16 14:14:00,964 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] Entering login page
+2018-11-16 14:14:00,969 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] Login GET request is handled successfully
+2018-11-16 14:14:00,970 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] Exiting login request
+2018-11-18 12:51:22,007 INFO org.springframework.boot.StartupInfoLogger [main] Starting SignupprojectApplication on tc16421518 with PID 12160 (C:\Users\tcokayildirim\IdeaProjects\signupproject\target\classes started by TCOKAYILDIRIM in C:\Users\tcokayildirim\IdeaProjects\signupproject)
+2018-11-18 12:51:22,015 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-18 12:51:22,019 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2018-11-18 12:51:26,810 INFO org.springframework.boot.StartupInfoLogger [main] Started SignupprojectApplication in 5.811 seconds (JVM running for 7.931)
+2018-11-18 12:51:27,471 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Entering login page
+2018-11-18 12:51:27,475 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Login GET request is handled successfully
+2018-11-18 12:51:27,475 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-1] Exiting login request
+2018-11-18 12:51:38,022 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-2] Entering signup page
+2018-11-18 12:51:38,026 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-2] Signup GET request is handled successfully
+2018-11-18 12:51:38,026 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-2] Exiting signup page
+2018-11-18 12:54:20,198 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-4] Entering login page
+2018-11-18 12:54:20,198 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-4] Login GET request is handled successfully
+2018-11-18 12:54:20,202 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-4] Exiting login request
+2018-11-18 12:54:32,527 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-6] Entering home/home request to home page
+2018-11-18 12:54:32,699 INFO com.okan.signupproject.controller.UserController [http-nio-3000-exec-6] Home GET request is handled successfully
+2018-11-18 12:54:32,699 DEBUG com.okan.signupproject.controller.UserController [http-nio-3000-exec-6] Exiting home/home request to home page

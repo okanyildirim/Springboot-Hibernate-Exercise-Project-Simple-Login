@@ -1,0 +1,2 @@
+2018-11-16 14:13:10,324 WARN com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] In signup page, user is already exist
+2018-11-16 14:13:10,325 WARN com.okan.signupproject.controller.UserController [http-nio-3000-exec-3] There is ERROR on signup page
